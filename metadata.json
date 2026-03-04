@@ -1,0 +1,5 @@
+{
+  "name": "ThreatPulse: Threat Trend Analyzer",
+  "description": "A cybersecurity dashboard for analyzing and visualizing global threat trends using AI-powered insights.",
+  "requestFramePermissions": []
+}
